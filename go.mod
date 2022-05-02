@@ -1,6 +1,8 @@
-module agooora
+module github.com/XenoFlex/agooora
 
 go 1.18
+
+// +heroku goVersion go1.17
 
 require (
 	github.com/AgoraIO-Community/go-tokenbuilder v1.0.0 // indirect
